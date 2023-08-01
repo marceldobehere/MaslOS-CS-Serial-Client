@@ -252,7 +252,7 @@ namespace MaslOS_Serial_Client.Connectors
 
             try
             {
-                byte[] receiveBuffer = new byte[256];
+                byte[] receiveBuffer = new byte[2048];
                 int tIndex = 0;
                 Stopwatch timeWatch = new Stopwatch();
                 timeWatch.Start();
