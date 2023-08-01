@@ -1,0 +1,8 @@
+E:\C SHARP\MaslOS Serial Client\MaslOS Serial Client\bin\Debug\MaslOS Serial Client.exe.config
+E:\C SHARP\MaslOS Serial Client\MaslOS Serial Client\bin\Debug\MaslOS Serial Client.exe
+E:\C SHARP\MaslOS Serial Client\MaslOS Serial Client\bin\Debug\MaslOS Serial Client.pdb
+E:\C SHARP\MaslOS Serial Client\MaslOS Serial Client\obj\Debug\MaslOS Serial Client.csproj.AssemblyReference.cache
+E:\C SHARP\MaslOS Serial Client\MaslOS Serial Client\obj\Debug\MaslOS Serial Client.csproj.SuggestedBindingRedirects.cache
+E:\C SHARP\MaslOS Serial Client\MaslOS Serial Client\obj\Debug\MaslOS Serial Client.csproj.CoreCompileInputs.cache
+E:\C SHARP\MaslOS Serial Client\MaslOS Serial Client\obj\Debug\MaslOS Serial Client.exe
+E:\C SHARP\MaslOS Serial Client\MaslOS Serial Client\obj\Debug\MaslOS Serial Client.pdb
